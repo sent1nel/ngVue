@@ -1,0 +1,26 @@
+{
+  "name": "ng-vue",
+  "description": "Use Vue Components in Angular 1.x",
+  "main": "build/index.js",
+  "authors": [
+    "Doray Hong <hongduhui@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "javascript",
+    "migration",
+    "vue",
+    "angular",
+    "ng",
+    "components",
+    "ngvue"
+  ],
+  "homepage": "https://github.com/ngVue/ngVue",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
